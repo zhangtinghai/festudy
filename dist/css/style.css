@@ -946,7 +946,6 @@ button, input, select, textarea, label {
 }
 .hero-media {
     position:relative;
-    height:200px;
     margin-top:40px;
     background:#fff;
     border-radius:4px 4px 0 0;
